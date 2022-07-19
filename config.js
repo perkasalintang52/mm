@@ -48,16 +48,16 @@ global.socialm = "GitHub: Perkasalintang52" //ur github or insta name
 global.location = "Indonesia, DKI JAKARTA, Pondok Indah" //ur location
 
 //bot bombdy
-global.botname = "LINTANG BOT" //ur bot name
+global.botname = "Sad Botz" //ur bot name
 global.websitex = "https://tiktok.com/@joceylintangg" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/eFNTvNt.mp4' } //gif and video menu
 global.packname = "Sticker By"
-global.author = "LINTANG BOT"
-global.themeemoji = "🐶"
-global.reactmoji = "🗿"
+global.author = "Sad Botz"
+global.themeemoji = "😋"
+global.reactmoji = "🖕"
 global.ownertag = ['LINTANG'] //ur owner tag
 global.ownernummenu = ['6281322577123'] //ur owner number in menu and all
-global.watermark = "LINTANG BOT" //ur watermark
+global.watermark = "Sad Botz - Lintang" //ur watermark
 global.botscript = "https://tiktok.com/@joceylintangg"
 global.linkz1 = "https://tiktok.com/@joceylintangg"
 global.linkz2 = "https://tiktok.com/@joceylintangg"
